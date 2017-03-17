@@ -1,6 +1,10 @@
 # beamforming
 Repository for my MATLAB beamforming simulator
 
+ESTE É UM SIMULADOR DE CÓDIGO ABERTO
+PODE SER ENCONTRADO EM:
+https://github.com/ricardobrauner/beamforming/
+
 This repository contains my single cell wireless simulator for MIMO system with one relay.
 
 To run the simulator run the file simulador_sgb.m. The configurations of the simulation are in the files simulador_sgb.m and Parameters.m.
