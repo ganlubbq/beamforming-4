@@ -1,5 +1,23 @@
 function simulador_sgb(pUE,pSimStr)
-%% Example for running a BER simulation using linksim_sgb
+% This program is free software; you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation; either version 2 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful, but
+% WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+% General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+%
+% Correspondence concerning this software should be addressed to the e-mail
+%brauner@virtual.ufc.br
+%Ricardo Brauner dos Santos
+%Professor
+%Universidade Federal do Cear√°
 tic
 addpath(genpath('.'));
 
@@ -17,7 +35,7 @@ end
 
 %% Definition of parameters to be varied
 
-% NADA DA CODIFICA«√O POR LETRAS ABAIXO VALE AINDA!
+% NADA DA CODIFICA√á√ÉO POR LETRAS ABAIXO VALE AINDA!
 %% the scheme name will be composed of prefixes that define:
 % multicating scheme:
 %% relay scheme
